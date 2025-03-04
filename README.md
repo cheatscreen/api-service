@@ -5,6 +5,9 @@ Just run it locally along with the `desktop-interface` and hack your interviews 
 
 No $60/mo subscriptions, no ad revenue, we're not like that around here. 😉
 
+### Runbook
+Set up your local instance by following [the steps here.](https://github.com/cheatscreen/api-service/blob/main/README.md)
+
 ### Contributing?
 Contribute to the cause. Join the movement.
 
