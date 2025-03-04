@@ -11,7 +11,7 @@ Set up your local instance by following [the steps here.](https://github.com/che
 ### Contributing?
 Contribute to the cause. Join the movement.
 
-Raise a PR and tag a reviewer/ping them directly.
+Raise a PR and tag/ping me directly.
 
 ---
 
