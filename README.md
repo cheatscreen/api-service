@@ -12,7 +12,7 @@ Raise a PR and tag a reviewer/ping them directly.
 
 ---
 
-Originally, this was going to be a paid service with a monthly subscription (a ~business idea~)
+Originally, this was going to be a paid service with a monthly subscription (a //business idea//)
 
 But today's coding interviews create no value for the interviewer and no value for the interviewee
 
