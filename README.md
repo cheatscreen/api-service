@@ -33,4 +33,4 @@ Let's change the industry
 
 ---
 
-*every day someone new says that LC questions are the worst thing about software... but ultimately, nobody cares... so we must flip the script ourselves.*
+*every day someone new screams that LC questions are the worst thing about software... but nobody acts... they stay sheep... so we must flip the script ourselves.*
