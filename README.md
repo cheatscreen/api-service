@@ -5,7 +5,7 @@ Just run it locally along with the `desktop-interface` and hack your interviews 
 
 No $60/mo subscriptions, no ad revenue, we're not like that around here. 😉
 
-# Contributing?
+### Contributing?
 Contribute to the cause. Join the movement.
 
 Raise a PR and tag a reviewer/ping them directly.
