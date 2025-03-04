@@ -1,4 +1,4 @@
-# api-service
+# Cheatscreen: api-service
 Self-hosted backend service for the Cheatscreen desktop interface. 🌐
 
 Just run it locally along with the `desktop-interface` and hack your interviews for free. All you need is a Claude API key or a local Ollama server.
